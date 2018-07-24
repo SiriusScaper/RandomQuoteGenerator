@@ -1,6 +1,7 @@
 # RandomQuoteGenerator
 Random quote generator project as part of FCC curriculum.
 
+https://siriusscaper.github.io/RandomQuoteGenerator/
 
 ## Random Quote Generator using vanilla JS
 
