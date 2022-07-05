@@ -29,10 +29,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Random Quote Gen for Tweeting</h3>
 
   <p align="center">
-    project_description
+    Quick front end project that connects to the twitter api to tweet out a set number of quotes from famous scientists that I personally find inspirational.
     <br />
     <a href="https://github.com/SiriusScaper/devportfolio-2022"><strong>Explore the docs »</strong></a>
     <br />
