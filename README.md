@@ -25,7 +25,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/SiriusScaper/devportfolio-2022">
+  <a href="https://github.com/SiriusScaper/RandomQuoteGenerator">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -34,14 +34,14 @@
   <p align="center">
     Quick front end project that connects to the twitter api to tweet out a set number of quotes from famous scientists that I personally find inspirational.
     <br />
-    <a href="https://github.com/SiriusScaper/devportfolio-2022"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/SiriusScaper/RandomQuoteGenerator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/SiriusScaper/devportfolio-2022">View Demo</a>
+    <a href="https://siriusscaper.github.io/RandomQuoteGenerator/">View Demo</a>
     ·
-    <a href="https://github.com/SiriusScaper/devportfolio-2022/issues">Report Bug</a>
+    <a href="https://github.com/SiriusScaper/RandomQuoteGenerator/issues">Report Bug</a>
     ·
-    <a href="https://github.com/SiriusScaper/devportfolio-2022/issues">Request Feature</a>
+    <a href="https://github.com/SiriusScaper/RandomQuoteGenerator/issues">Request Feature</a>
   </p>
 </div>
 
